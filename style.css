@@ -3,13 +3,16 @@
     right: 5%;
 }
 .section2{
-    margin-bottom: 5%;
+    margin-bottom: 10%;
 }
 .selected-card{
     bottom:5%;
 }
 .section3{
-    margin-bottom: 5%;
+    margin-bottom: 10%;
+}
+.section4{
+    margin-bottom:10%;
 }
 .people-feedback{
     width:90%;
@@ -36,6 +39,9 @@
 }
 @media screen and (min-width: 993px) {
     .venue-description{
+        width: 50%;
+    }
+    .half-width{
         width: 50%;
     }
 }
